@@ -1,2 +1,3 @@
-# plugin.image.roundshot
+# Kodi plugin - screensaver.roundshot
 roundshot.ch livecams
+
